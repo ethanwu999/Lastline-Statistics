@@ -1,6 +1,9 @@
 # Lastline-Statistics
 This is to show topN related data of Lastline Download and Mail
 
+to run it please edit the bottom def main() part to filled with your own credential
+this is a python3 program, run by: python3 ll-statistic.py
+
 
 #For Download:
 top md5:
