@@ -96,7 +96,7 @@ def main():
     ll_password = 'passw0rd'
     start_time = '2014-12-16'
     end_time = '2015-03-15'
-    s = Statistic('mail')   # can be 'mail' or 'download'
+    s = Statistic('mail')   	# can be 'mail' or 'download'
     data = s.get_data(ll_url, ll_username, ll_password, start_time, end_time)
     top_n = 3
     '''
