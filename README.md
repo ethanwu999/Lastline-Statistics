@@ -5,6 +5,8 @@ to run it please edit the bottom def main() part to filled with your own credent
 
 this is a python3 program, run by: python3 ll_statistic.py
 
+for UI version: https://youtu.be/7xLMjiQTvaA
+
 
 #For Download:
 top md5:
